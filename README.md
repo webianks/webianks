@@ -1,5 +1,10 @@
 # Hey there :wave:
 
+Few things about me
+
+- 🔭 I’m currently working on Peer2Peer File Sharing application.
+- 🌱 I’m currently learning Concurrency Techniques.
+
 
  ![](https://komarev.com/ghpvc/?username=webianks)
 
